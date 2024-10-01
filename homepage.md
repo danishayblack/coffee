@@ -53,3 +53,5 @@ Aside from coffee's ability to provide increased alertness and higher energy, th
 * **Lower Cancer Risk**
 * **Reduced Risk of Heart Disease**
 * **Can Help Prevent Parkinson's Disease**
+
+> "Coffee, the favorite drink of the civilized world." - Thomas Jefferson
