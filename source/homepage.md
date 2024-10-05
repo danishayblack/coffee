@@ -5,7 +5,7 @@
 ### What is Espresso?
 *Espresso* is a more concentrated form of coffee that originated in Italy. It is produced by forcing hot water under pressure through finely-ground coffee beans. It is thicker and more intense than regular coffee.
 
-![alt text](espresso.jpg)
+![alt text](../images/espresso.jpg)
 
 ### The History of Coffee
 
@@ -26,7 +26,7 @@ Made with espresso and steamed half-and-half, the breve makes for a rich and cre
 | --- | --- | --- |
 | bold, balanced | rich, creamy | cocoa powder |
 
-![alt text](breve.jpg)
+![alt-text](../images/breve.jpg)
 
 #### Cafe au Lait
 Brewed coffee and steamed milk make this a breakfast classic.
@@ -35,7 +35,7 @@ Brewed coffee and steamed milk make this a breakfast classic.
 | --- | --- | --- |
 | bitter-sweet, mild | steamed, smooth | sweetener, vanilla |
 
-![alt text](cafeaulait.jpg)
+![alt text](../images/cafeaulait.jpg)
 
 #### Cafe con Miel
 Espresso, milk, honey, and cinnammon. All of the best sweets and spices for this perfect cup of coffee.
@@ -44,7 +44,7 @@ Espresso, milk, honey, and cinnammon. All of the best sweets and spices for this
 | --- | --- | --- |
 | strong, sweet | foamy, creamy | sweetener |
 
-![alt text](cafemiel.jpg)
+![alt text](../images/cafemiel.jpg)
 
 ### What You'll Need
 
